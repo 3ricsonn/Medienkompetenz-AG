@@ -20,12 +20,12 @@ Lern- und Übungsmaterial für die Medienkompetenz-AG.
     </tr>
     <tr>
         <td align="center">
-        <img align="middle" src=".images/download.gif" alt="description" width="75%" height="auto" style="align-items: center"/>
+        <img align="middle" src=".images/extract.gif" alt="description" width="75%" height="auto" style="align-items: center"/>
         </td>
         <td>
             <h3>2. Material extrahieren</h3>
-            Um das Zip-Archiv, nachdem es heruntergeladen ist, zu entpacken, gehe mit der rechten Maustaste auf der Datei
-            und gehe über den Menüpunkt [] auf. Danach kann das Zip-Archiv gelöscht werden.
+            Um das Zip-Archiv, nachdem es heruntergeladen ist, zu entpacken, klicke mit der rechten Maustaste auf die Datei
+            und gehe auf den Menüpunkt "Alles extrahieren…". Danach kann das Zip-Archiv gelöscht werden.
         </td>
     </tr>
 </table>
