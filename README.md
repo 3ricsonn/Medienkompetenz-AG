@@ -24,7 +24,7 @@ Lern- und Übungsmaterial für die Medienkompetenz-AG.
         </td>
         <td>
             <h3>2. Material extrahieren</h3>
-            Nachdem das Zip-Archiv heruntergeladen ist, entpacke es mit der rechten Maustaste auf der Datei
+            Um das Zip-Archiv, nachdem es heruntergeladen ist, zu entpacken, gehe mit der rechten Maustaste auf der Datei
             und gehe über den Menüpunkt [] auf. Danach kann das Zip-Archiv gelöscht werden.
         </td>
     </tr>
